@@ -54,6 +54,16 @@ h5{
     margin: auto;
 }
 
+h6{
+    color: #000;
+    font-family: "Josefin Sans";
+    font-size: 30px;
+    font-weight: 400;
+    line-height: normal; 
+    text-align: left; 
+    max-width: 800px;
+}
+
 p{
     color: #fcfcfc;
     font-family: "Josefin Sans";
